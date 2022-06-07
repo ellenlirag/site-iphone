@@ -1,4 +1,4 @@
-# site-iphonehttps://ellenlirag.github.io/site-iphone/
+https://ellenlirag.github.io/site-iphone/
 Site desenvolvido na aula de Introdução à Tecnologia Web
 Curso: Sistema de Informação
 Instituição: UniRios
